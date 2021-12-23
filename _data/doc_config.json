@@ -1,6 +1,8 @@
 {
   "name": "coreMQTT-Agent",
-  "releases": [],
+  "releases": [
+    "test2"
+  ],
   "branches": [
     "main"
   ]
